@@ -6,9 +6,9 @@
 
 ## 🚀 Download & Install
 To get the latest version of Barry Vault, visit our official website:
-**[Download Barry Vault](https://badbarry.com)** *(Replace with your actual link)*
+**[Download Barry Vault]([https://badbarry.com](https://github.com/badbarry-lab/barry-vault-releases/releases/download/v0.1.0/barry-vault_0.1.0_x64-setup.exe))** *
 
-Alternatively, you can download the `.exe` installer directly from the [Releases Tab](../../releases) in this repository.
+Alternatively, you can download the `.exe` installer directly from the [Releases Tab](https://github.com/badbarry-lab/barry-vault-releases) in this repository.
 
 ## ⚡ Core Features
 * **Military-Grade Encryption:** Your data never leaves your device in plain text. Everything is encrypted using AES-256 standard via your Master Key.
